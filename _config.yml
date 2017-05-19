@@ -12,8 +12,8 @@ baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 # SNS settings
 RSS: false
-weibo_username:     制心
-zhihu_username:     制心
+#weibo_username:     制心_
+zhihu_username:     gavin-51-77
 github_username:    HeartMaker
 #twitter_username:  huxpro
 # facebook_username:  huxpro
@@ -26,7 +26,7 @@ highlighter: rouge
 permalink: pretty
 paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
-anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
+anchorjs: false                          # if you want to customize anchor. check out line:181 of `post.html`
 
 
 
@@ -52,7 +52,7 @@ kramdown:
 # Duoshuo settings
 # duoshuo_username: huxblog
 # Share component is depend on Comment so we can NOT use share only.
-duoshuo_share: true                     # set to false if you want to use Comment without Sharing
+#duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
 
 
@@ -80,21 +80,21 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 
 
 # Friends
-friends: [
-    {
-        title: "HeartMaker Blog",
-        href: "http://HeartMaker.github.io"
-    },{
-        title: "Foo",
-        href: "#"
-    },{
-        title: "Bar",
-        href: "#"
-    },{
-        title: "Example Friends",
-        href: "#"
-    },{
-        title: "It helps SEO",
-        href: "#"
-    }
-]
+#friends: [
+##    {
+##        title: "HeartMaker Blog",
+##        href: "http://HeartMaker.github.io"
+##    },{
+##        title: "Foo",
+##        href: "#"
+##    },{
+##        title: "Bar",
+##        href: "#"
+##    },{
+##        title: "Example Friends",
+##        href: "#"
+##    },{
+##        title: "It helps SEO",
+##        href: "#"
+##    }
+#]
