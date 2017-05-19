@@ -19,6 +19,7 @@ tags:
 
 javascript 作为前端开发的基础知识，在我们日常研发工作中起着至关重的作用。然而，有多少人对这门编程语言有足够的认知，能够深入理解语言的内部机制，真正发挥'神兵利器'作用呢？让我们跟着KYLE SIMPSON,去探索javascript不为人知的一面
 
+> 电子书项目已在github开源，附上地址： [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 
 ---
 
@@ -267,5 +268,5 @@ ES6中为模块增加了一级语法支持，可以直接通过引用文件作�
 - [CommonJS](http://wiki.commonjs.org/wiki/CommonJS)
 - [前端模块化开发那点历史](https://github.com/seajs/seajs/issues/588)
 - [AMD (Async Module Definition)](http://wiki.commonjs.org/wiki/Modules/AsynchronousDefinition)
-- [SeaJS (CMD) '](http://seajs.org/docs/)
+- [SeaJS (CMD)](http://seajs.org/docs/)
 
